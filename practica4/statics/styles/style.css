@@ -1,0 +1,150 @@
+/*=fuentes
+///////////////////////*/
+
+@font-face {
+    font-family: "Montserrat";
+    src: url("../fonts/Montserrat/Montserrat-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Yrsa";
+    src: url("../fonts/yrsa/Yrsa-Regular.ttf");
+}
+
+@font-face {
+    font-family: "NTR";
+    src: url("../fonts/NTR/NTR-Regular.ttf");
+}
+
+
+
+/*=div
+/////////////////////////////////////////////////////////////////////////////*/
+div{
+    width: 250px;
+    height: 50px;
+    border: 0px solid #05b5F7;
+    background-color: #05B5F7;
+    text-align: center;
+    font-family: "NTR", Helvetica, sans-serif;
+}
+
+/*=encabezado
+///////////////////////////////////////////////////////////*/
+article{
+    border: 1px solid #c4c4c4;
+}
+
+section{
+    width: 100%;
+    height: 776px;
+}
+
+#img1{
+    width: 250;
+    height: 327;
+}
+
+#article1{
+    width: 250px;
+    height: 381px;
+}
+
+/*=article
+//////////////////////////////////////////////*/
+#article2{
+    width: 250px;
+    height: 235px;
+    position: absolute;
+    top: 500px;
+}
+
+#article3{
+    position: absolute;
+    left: 300px;
+    top: 108px;
+    width: 250px;
+    height: 289px;
+}
+
+#article4{
+    width: 250px;
+    height: 293px;
+    position: absolute;
+    left: 300px;
+    top: 407px; 
+}
+
+#article5{
+    width: 250px;
+    height: 376px;
+    position: absolute;
+    left: 590px;
+    top: 108px; 
+}
+
+#article6{
+    width: 250px;
+    height: 345px;
+    position: absolute;
+    left: 590px;
+    top: 493px; 
+}
+
+#article7{
+    width: 250px;
+    height: 376px;
+    position: absolute;
+    left: 890px;
+    top: 108px; 
+}
+
+#article8{
+    width: 250px;
+    height: 289px;
+    position: absolute;
+    left: 890px;
+    top: 493px; 
+}
+
+footer{
+    width: 100%;
+    height: 86px;
+    background-color: rgba(5,237,162,.5);
+    text-align: center;
+    font-family: "NTR", Helvetica, sans-serif;
+}
+
+
+/*=footer
+//////////////////////////////////////////////////////////////////*/
+h1{
+    position: absolute;
+    top: -5px;
+    left: 48%;
+    font-family: "Montserrat", Courier, monospace;
+}
+
+#logo{
+    background-color: rgba(7,39,224,.8);
+    width: 52px;
+    height: 51px;
+    position: relative;
+    left: 0px;
+    top: 0px;
+}
+
+#divTitulo{
+    border: 1px solid black;
+    background-color: white;
+    width: 100%;
+    
+}
+
+nav{
+    border: 1px solid #c4c4c417;
+    background-color: #c4c4c417;
+    width: 100%;
+    text-align: center;
+    font-family: "Yrsa", Helvetica, sans-serif;
+}
